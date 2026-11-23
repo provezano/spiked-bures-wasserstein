@@ -3,7 +3,7 @@ message: "If you use this software or benchmark summary data, please cite it usi
 title: "Code and benchmark summary data for: Exact Subspace Bures-Wasserstein Barycenters and Grassmannian Debiasing for Spiked High-Dimensional Covariances"
 version: "1.0.0"
 date-released: "2026-11-18"
-license: "MIT"
+license: "Apache-2.0"
 authors:
   - family-names: "Coutinho"
     given-names: "Felipe Provezano"
